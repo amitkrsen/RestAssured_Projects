@@ -1,0 +1,2 @@
+This is my first attachment in JIRA.
+Added through RestAssured.

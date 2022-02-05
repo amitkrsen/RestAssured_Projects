@@ -1,0 +1,21 @@
+{
+    "fields": {
+        "project": 
+        {
+            "key": "RES"
+        },
+        "summary": "My fourth REST API Bug",
+        "description": "My fourth RestAPI Bug created from RestAssured static json file with High Priority found in UAT Environment...",
+        "issuetype": {
+            "name": "Bug"
+        },
+                "priority": {
+            "name": "High"
+        },
+        "labels": [
+            "bugfix",
+            "blitz_test"
+        ],
+        "environment": "UAT Environment"
+    }
+}
